@@ -8,8 +8,8 @@
 
 :computer: Entusiasta da computação gráfica, engenharia de software e inteligência artificial, em especial Deep learning
 
-[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
+![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)
 
 ### Linguagens de Programação
 
