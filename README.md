@@ -1,26 +1,21 @@
-# Salve visitante!
+# Salve! 
 
-## Eu sou o Matheus Felipe!
-
-:computer: I'm Front-End Developer!
+### Eu sou o Matheus Felipe!
 
 :brazil: Natural do Brasil 
 
-:books: Estudante da Universidade de Brasília
+:books: Estudante de Engenharia Mecatrônica 
 
-:outbox_tray: 2021 Goals: create a new project and find a new job. 👋
+:computer: Entusiasta da computação gráfica, engenharia de software e inteligência artificial, em especial Deep learning
 
-<!--
-**MatheusStarkX/MatheusStarkX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
 
-Here are some ideas to get you started:
+### Linguagens de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=gold" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=gold" /><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=gold" /><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=gold" style="margin:5px" />
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
