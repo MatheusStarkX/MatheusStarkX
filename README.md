@@ -10,9 +10,8 @@
 
 :books: Atualmente estudando HTML, CSS e JS, para então se aprofundar em frameworks web, como o react 
 
-[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)
+[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens de Programação
 
