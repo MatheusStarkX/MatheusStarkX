@@ -2,22 +2,24 @@
 
 ### Eu sou o Matheus Felipe!
 
-:brazil: Natural do Brasil 
+:brazil: Natural do Brasil
 
 :satellite: Estudante de Engenharia Mecatrônica da Universidade de Brasília
 
 :computer: Entusiasta da computação gráfica, engenharia de software e especialmente desenvolvimento web e mobile
 
-:books: Atualmente estudando HTML, CSS e JS, para então se aprofundar em frameworks web, como o react 
+:books: Atualmente estou estudando HTML, CSS e JS, para então me aprofundar mais em frameworks web, tanto frontend como backend
 
-[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/MatheusStarkX">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
 
-### Linguagens de Programação
-
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=gold" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=gold" /><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=gold" /><img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=gold" style="margin:5px" />
-
+### Tecnologias
+	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>
+          
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
 </div>
