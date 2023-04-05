@@ -11,11 +11,11 @@
 :books: Atualmente estou estudando HTML, CSS e JS, para então me aprofundar mais em frameworks web, tanto frontend como backend
 
 <div>
-<a href="https://github.com/MatheusStarkX">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&langs_count=7&theme=great-gatsby"/>
+    <a href="https://github.com/MatheusStarkX">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
-### Tecnologias
+### Ferramentas e Tecnologias
 	
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/>
           
