@@ -4,11 +4,14 @@
 
 :brazil: Natural do Brasil 
 
-:books: Estudante de Engenharia Mecatrônica 
+:satellite: Estudante de Engenharia Mecatrônica da Universidade de Brasília
 
-:computer: Entusiasta da computação gráfica, engenharia de software e inteligência artificial, em especial Deep learning
+:computer: Entusiasta da computação gráfica, engenharia de software e especialmente desenvolvimento web e mobile
 
-![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)
+:books: Atualmente estudando HTML, CSS e JS, para então se aprofundar em frameworks web, como o react 
+
+[![MatheusStarkX GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusStarkX&show_icons=true&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)](https://github.com/MatheusStarkX/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&theme=great-gatsby)
 
 ### Linguagens de Programação
