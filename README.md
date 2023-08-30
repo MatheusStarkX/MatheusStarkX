@@ -12,7 +12,7 @@
 
 <div>
     <a href="https://github.com/MatheusStarkX">
-    <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&langs_count=7&theme=great-gatsby"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusStarkX&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 ### Ferramentas e Tecnologias
