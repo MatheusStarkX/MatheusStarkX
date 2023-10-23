@@ -6,9 +6,9 @@
 
 :satellite: Estudante de Engenharia Mecatrônica da Universidade de Brasília
 
-:computer: Entusiasta da computação gráfica, engenharia de software e especialmente desenvolvimento web e mobile
+:computer: Entusiasta de visão computacional, engenharia de software e desenvolvimento web e mobile
 
-:books: Atualmente estou estudando HTML, CSS e JS, para então me aprofundar mais em frameworks web, tanto frontend como backend
+:books: Atualmente estou estudando HTML, CSS e JS, para então me aprofundar mais em frameworks web, especialmente backend
 
 <div>
     <a href="https://github.com/MatheusStarkX">
